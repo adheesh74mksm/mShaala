@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mshaala/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/mshaala/static/js/main.2ab2855c.chunk.js",
+    "main.js.map": "/mshaala/static/js/main.2ab2855c.chunk.js.map",
+    "runtime-main.js": "/mshaala/static/js/runtime-main.ad0c832f.js",
+    "runtime-main.js.map": "/mshaala/static/js/runtime-main.ad0c832f.js.map",
+    "static/js/2.9a7d78da.chunk.js": "/mshaala/static/js/2.9a7d78da.chunk.js",
+    "static/js/2.9a7d78da.chunk.js.map": "/mshaala/static/js/2.9a7d78da.chunk.js.map",
+    "static/js/3.6afb5115.chunk.js": "/mshaala/static/js/3.6afb5115.chunk.js",
+    "static/js/3.6afb5115.chunk.js.map": "/mshaala/static/js/3.6afb5115.chunk.js.map",
+    "index.html": "/mshaala/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/mshaala/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.9a7d78da.chunk.js.LICENSE.txt": "/mshaala/static/js/2.9a7d78da.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/mshaala/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad0c832f.js",
+    "static/js/2.9a7d78da.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.2ab2855c.chunk.js"
+  ]
+}
